@@ -1,6 +1,14 @@
 # Wilson Galindo
 
-Senior Backend Engineer with 15+ years of experience building enterprise applications in high-availability environments.
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3-green)
+![.NET](https://img.shields.io/badge/.NET-8-blue)
+![Automation](https://img.shields.io/badge/Automation-Playwright-purple)
+![CI/CD](https://img.shields.io/badge/CI/CD-Jenkins-red)
+
+Senior Backend Engineer with 15+ years of experience building high-availability, scalable backend systems for enterprise environments.
+
+---
 
 ## 🚀 Focus
 
@@ -9,9 +17,11 @@ Senior Backend Engineer with 15+ years of experience building enterprise applica
 * Automation & CI/CD pipelines
 * API design and integration
 
+---
+
 ## 🧱 Key Projects
 
-### 🔹 User Service
+### 🔹 User Service (Spring Boot Microservice)
 
 Spring Boot microservice with JSON-based persistence, designed to demonstrate clean architecture and CI/CD integration.
 
@@ -19,9 +29,9 @@ Spring Boot microservice with JSON-based persistence, designed to demonstrate cl
 
 ---
 
-### 🔹 QA Automation Framework
+### 🔹 QA Automation Framework (Playwright)
 
-Automation framework built with Playwright for UI and API testing, ready for CI/CD pipelines.
+Automation framework built with Playwright for API and UI testing, designed for CI/CD pipelines.
 
 👉 https://github.com/wilsongalindo/qa-automation-playwright-framework
 
@@ -31,12 +41,12 @@ Automation framework built with Playwright for UI and API testing, ready for CI/
 
 * Java, Spring Boot
 * C#, .NET
-* Playwright, API Testing
+* Playwright (UI & API Testing)
 * Jenkins, CI/CD
 * SQL, NoSQL
 
 ---
 
-## 🎯 Goal
+## 📬 Contact
 
-Build scalable systems with integrated automation and continuous delivery.
+Open to remote opportunities and collaborations in backend development, automation, and CI/CD.
